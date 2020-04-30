@@ -34,7 +34,7 @@
     "esprima": "^4.0.1",
     "estraverse": "^4.3.0",
     "fabric": "^3.5.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery-mousewheel": "^3.1.13",
     "p5": "^0.10.2",
     "three": "^0.107.0"
