@@ -29,7 +29,7 @@
     "webpack-dev-server": "^3.8.0"
   },
   "dependencies": {
-    "d3": "^5.14.2",
+    "d3": "^7.6.1",
     "escodegen": "^1.12.0",
     "esprima": "^4.0.1",
     "estraverse": "^4.3.0",
